@@ -1,2 +1,1 @@
-# CoroutinesExample
 Kotlin Coroutines playground
